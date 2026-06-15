@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+.env
+
+serviceAccountKey.json
+firebase_config.pyvenv/
+__pycache__/
+*.pyc
+.env
+
+serviceAccountKey.json
+firebase_config.py
+
+temp_audio/
