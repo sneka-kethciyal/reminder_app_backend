@@ -1,25 +1,29 @@
-venv/
+# Python cache
 __pycache__/
-<<<<<<< HEAD
-db.sqlite3
-.env
-serviceAccountKey.json
-temp_audio/
 *.pyc
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Django
+db.sqlite3
+*.log
+
+# Environment variables
+.env
+
+# IDE
 .vscode/
 .idea/
-=======
-*.pyc
-.env
 
+# OS files
+.DS_Store
+Thumbs.db
+
+# Firebase secrets
 serviceAccountKey.json
-firebase_config.pyvenv/
-__pycache__/
-*.pyc
-.env
 
-serviceAccountKey.json
-firebase_config.py
-
+# Temp files
 temp_audio/
->>>>>>> 7dd41d751be649e9ca1ce9186b671f4f3cc03877
