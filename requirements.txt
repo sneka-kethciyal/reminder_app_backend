@@ -1,12 +1,5 @@
-<<<<<<< HEAD
 Django>=5.0
 firebase-admin
 edge-tts
 django-cors-headers
-=======
-Flask==3.1.0
-Flask-Cors==5.0.0
-firebase-admin
-edge-tts
->>>>>>> 7dd41d751be649e9ca1ce9186b671f4f3cc03877
 APScheduler
